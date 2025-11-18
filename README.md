@@ -1,6 +1,4 @@
-<p align="center">
-    ‹ Este perfil só funciona no tema escuro do GitHub ›
-</p>
+<p align="center">‹ Este perfil só funciona no tema escuro do GitHub ›</p>
 <br>
 <a href="#">
     <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
@@ -13,7 +11,7 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://i.imgur.com/kCLOUqA.png" width="183"/> 
+<a href="#"><img align="left" src="https://i.imgur.com/kCLOUqA.png" width="180"/> 
 
 
 ```lua
