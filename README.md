@@ -11,12 +11,12 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://i.imgur.com/kCLOUqA.png" width="180"/> 
+<a href="#"><img align="left" src="https://i.imgur.com/kCLOUqA.png" width="175"/> 
 
 
 ```lua
-rbnwonknui@GitHub
-▔▔▔▔▔▔▔▔▔
+DarkModeBR@GitHub
+▔▔▔▔▔▔▔▔▔▔
 OS: Windows 11 x64
 Shell: Windows Terminal
 Location: Brasil, SP
