@@ -13,7 +13,7 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://i.imgur.com/kCLOUqA.png" width="188"/> 
+<a href="#"><img align="left" src="https://i.imgur.com/kCLOUqA.png" width="183"/> 
 
 
 ```lua
@@ -22,7 +22,7 @@ rbnwonknui@GitHub
 OS: Windows 11 x64
 Shell: Windows Terminal
 Location: Brasil, SP
-Learning: Javascript and Node.JS
+Learning: Javascript and NodeJS
 Languages: None
 Hobbies: Cheating in Games, Sleep, Programming.
 ```
